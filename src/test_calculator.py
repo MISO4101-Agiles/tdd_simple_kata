@@ -14,3 +14,4 @@ class TestCalculator(TestCase):
 
     def test_sumar_dos_cadenas(self):
         self.assertEqual(Calculator.sumar("1,1"), 2, "One number")
+        self.assertEqual(Calculator.sumar("2,1"), 3, "One number")
