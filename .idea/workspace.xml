@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e161dcd1-891b-4d95-b1f7-9455c9caecff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test_calculator.py" afterPath="$PROJECT_DIR$/src/test_calculator.py" />
-    </list>
+    <list default="true" id="e161dcd1-891b-4d95-b1f7-9455c9caecff" name="Default" comment="" />
     <ignored path="tdd_simple_kata.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -17,8 +14,8 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_una_cadena__4_.coverage" NAME="Unittest TestCalculator.test_sumar_una_cadena (4) Coverage Results" MODIFIED="1474842258468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__2_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (2) Coverage Results" MODIFIED="1474844507052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__3_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (3) Coverage Results" MODIFIED="1474844587756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__2_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (2) Coverage Results" MODIFIED="1474844996033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__3_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (3) Coverage Results" MODIFIED="1474844999594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar.coverage" NAME="Unittest TestCalculator.test_sumar Coverage Results" MODIFIED="1474840056463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_una_cadena__5_.coverage" NAME="Unittest TestCalculator.test_sumar_una_cadena (5) Coverage Results" MODIFIED="1474842589293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__1_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (1) Coverage Results" MODIFIED="1474844877588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
@@ -27,11 +24,11 @@
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_una_cadena__3_.coverage" NAME="Unittest TestCalculator.test_sumar_una_cadena (3) Coverage Results" MODIFIED="1474842239976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar__1_.coverage" NAME="Unittest TestCalculator.test_sumar (1) Coverage Results" MODIFIED="1474841490341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata$simple_kata.coverage" NAME="simple_kata Coverage Results" MODIFIED="1474508861160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__4_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (4) Coverage Results" MODIFIED="1474844654887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__4_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (4) Coverage Results" MODIFIED="1474845001476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_una_cadena.coverage" NAME="Unittest TestCalculator.test_sumar_una_cadena Coverage Results" MODIFIED="1474843881606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_una_cadena__1_.coverage" NAME="Unittest TestCalculator.test_sumar_una_cadena (1) Coverage Results" MODIFIED="1474843964605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas Coverage Results" MODIFIED="1474844916075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__5_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (5) Coverage Results" MODIFIED="1474844737620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas Coverage Results" MODIFIED="1474845162534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata$Unittest_TestCalculator_test_sumar_dos_cadenas__5_.coverage" NAME="Unittest TestCalculator.test_sumar_dos_cadenas (5) Coverage Results" MODIFIED="1474845089685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -45,8 +42,8 @@
       <file leaf-file-name="calculator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="210">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -56,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/test_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -87,8 +84,8 @@
         <option value="$PROJECT_DIR$/src/Clculator.py" />
         <option value="$PROJECT_DIR$/src/Calculator.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/test_calculator.py" />
         <option value="$PROJECT_DIR$/src/calculator.py" />
+        <option value="$PROJECT_DIR$/src/test_calculator.py" />
       </list>
     </option>
   </component>
@@ -174,7 +171,30 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager" selected="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas">
-    <configuration default="false" name="Unittest TestCalculator.test_sumar_dos_cadenas (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittest TestCalculator.test_sumar_dos_cadenas" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tdd_simple_kata" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_calculator.py" />
+      <option name="CLASS_NAME" value="TestCalculator" />
+      <option name="METHOD_NAME" value="test_sumar_dos_cadenas" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestCalculator.test_sumar_dos_cadenas (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -244,29 +264,6 @@
       <method />
     </configuration>
     <configuration default="false" name="Unittest TestCalculator.test_sumar_dos_cadenas (5)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tdd_simple_kata" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_calculator.py" />
-      <option name="CLASS_NAME" value="TestCalculator" />
-      <option name="METHOD_NAME" value="test_sumar_dos_cadenas" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestCalculator.test_sumar_dos_cadenas" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -498,19 +495,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (3)" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (5)" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (4)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (5)" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (5)" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (4)" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (5)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (4)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestCalculator.test_sumar_dos_cadenas (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -531,35 +528,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas - 2016.09.25 at 17h 57m 19s.xml">
-      <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas - 2016.09.25 at 18h 08m 36s.xml">
       <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(1) - 2016.09.25 at 18h 00m 05s.xml">
-      <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (1)" configurationId="tests" />
+    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas - 2016.09.25 at 18h 12m 42s.xml">
+      <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(1) - 2016.09.25 at 18h 07m 57s.xml">
       <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(2) - 2016.09.25 at 18h 01m 47s.xml">
+    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(2) - 2016.09.25 at 18h 09m 56s.xml">
       <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (2)" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(3) - 2016.09.25 at 18h 03m 07s.xml">
       <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (3)" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(3) - 2016.09.25 at 18h 09m 59s.xml">
+      <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (3)" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(4) - 2016.09.25 at 18h 04m 15s.xml">
+      <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (4)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(4) - 2016.09.25 at 18h 10m 01s.xml">
       <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (4)" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(5) - 2016.09.25 at 18h 05m 37s.xml">
       <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (5)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestCalculator_test_sumar_una_cadena - 2016.09.25 at 17h 51m 21s.xml">
-      <configuration name="Unittest TestCalculator.test_sumar_una_cadena" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittest_TestCalculator_test_sumar_una_cadena_(1) - 2016.09.25 at 17h 52m 44s.xml">
-      <configuration name="Unittest TestCalculator.test_sumar_una_cadena (1)" configurationId="tests" />
+    <history-entry file="Unittest_TestCalculator_test_sumar_dos_cadenas_(5) - 2016.09.25 at 18h 11m 29s.xml">
+      <configuration name="Unittest TestCalculator.test_sumar_dos_cadenas (5)" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -572,9 +569,9 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29711142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29711142" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -653,7 +650,7 @@
     <entry file="file://$PROJECT_DIR$/src/test_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -662,8 +659,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
