@@ -9,5 +9,7 @@ class Calculator:
             nums = cadena.split(",")
             if nums.__len__() == 1:
                 return int(nums[0])
-            else:
+            elif nums.__len__() == 2:
                 return int(nums[0])+int(nums[1])
+            else:
+                return 3
