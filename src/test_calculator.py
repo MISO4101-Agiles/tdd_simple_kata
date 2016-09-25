@@ -10,3 +10,4 @@ class TestCalculator(TestCase):
 
     def test_sumar_una_cadena(self):
         self.assertEqual(Calculator.sumar("1"), 1, "One number")
+        self.assertEqual(Calculator.sumar("2"), 2, "One number")
