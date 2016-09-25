@@ -23,3 +23,6 @@ class TestCalculator(TestCase):
 
     def test_sumar_separator_1(self):
         self.assertEqual(Calculator.sumar("1,1:1"), 3, "diff separators :")
+        self.assertEqual(Calculator.sumar("1,1&1"), 3, "diff separators &")
+        self.assertEqual(Calculator.sumar("1:1&1"), 3, "diff separators &,:")
+        self.assertEqual(Calculator.sumar("1:1&1,5,6:6&8"), 28, "diff separators &,:")
