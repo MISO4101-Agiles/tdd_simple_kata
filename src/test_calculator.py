@@ -5,6 +5,7 @@ __author__ = 'Luis_Sebastian_Talero'
 
 
 class TestCalculator(TestCase):
+
     def test_sumar(self):
         self.assertEqual(Calculator.sumar(""), 0, "Empty String")
 
@@ -16,7 +17,7 @@ class TestCalculator(TestCase):
         self.assertEqual(Calculator.sumar("1,1"), 2, "Two numbers")
         self.assertEqual(Calculator.sumar("2,1"), 3, "Two numbers")
 
-    def test_sumar_dos_cadenas(self):
+    def test_sumar_mas_dos_cadenas(self):
         self.assertEqual(Calculator.sumar("1,1,1"), 3, "More than two")
         self.assertEqual(Calculator.sumar("1,1,2"), 4, "More than two")
         self.assertEqual(Calculator.sumar("1,1,2,5,7"), 16, "More than two")
@@ -24,5 +25,3 @@ class TestCalculator(TestCase):
     def test_sumar_separator_1(self):
         self.assertEqual(Calculator.sumar("1,1:1"), 3, "diff separators :")
         self.assertEqual(Calculator.sumar("1,1&1"), 3, "diff separators &")
-        self.assertEqual(Calculator.sumar("1:1&1"), 3, "diff separators &,:")
-        self.assertEqual(Calculator.sumar("1:1&1,5,6:6&8"), 28, "diff separators &,:")

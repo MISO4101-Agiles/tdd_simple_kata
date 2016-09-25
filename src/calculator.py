@@ -2,6 +2,7 @@ __author__ = 'Luis_Sebastian_Talero'
 
 
 class Calculator:
+    @staticmethod
     def sumar(cadena):
         if not cadena:
             return 0
