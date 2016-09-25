@@ -21,5 +21,5 @@ class TestCalculator(TestCase):
         self.assertEqual(Calculator.sumar("1,1,2"), 4, "More than two")
         self.assertEqual(Calculator.sumar("1,1,2,5,7"), 16, "More than two")
 
-    def test_sumar_dos_cadenas(self):
+    def test_sumar_separator_1(self):
         self.assertEqual(Calculator.sumar("1,1:1"), 3, "diff separators :")

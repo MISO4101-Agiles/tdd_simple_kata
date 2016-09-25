@@ -6,6 +6,7 @@ class Calculator:
         if not cadena:
             return 0
         else:
+            cadena = cadena.replace(":",",")
             nums = cadena.split(",")
             if nums.__len__() == 1:
                 return int(nums[0])
